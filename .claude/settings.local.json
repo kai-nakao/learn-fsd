@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:registry.npmjs.org)",
+      "Bash(npm view:*)",
+      "Bash(pnpm --version)",
+      "Bash(pnpm view:*)"
+    ]
+  }
+}
